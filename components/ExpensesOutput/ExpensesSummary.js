@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
     borderRadius: 6,
     flexDirection: "row",
     alignItems: "center",
-    justifyContent: "space-between ",
+    justifyContent: "space-between",
   },
   period: {
     fontSize: 12,
